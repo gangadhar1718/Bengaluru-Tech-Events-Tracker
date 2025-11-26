@@ -2,6 +2,8 @@
 
 A single-purpose React micro-tool for tracking Bengaluru tech events with a clean, responsive, glass-morphism interface.
 
+🌐 **Live Demo**: https://gangadhar1718.github.io/Bengaluru-Tech-Events-Tracker/
+
 ## Features
 
 - **Event Management**: Track upcoming and past tech events

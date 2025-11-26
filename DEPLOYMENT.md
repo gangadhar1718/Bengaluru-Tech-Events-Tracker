@@ -113,9 +113,41 @@ python app.py
 3. Click "🔄 Reload Fresh Data" button
 4. Or clear browser Local Storage manually
 
-### To Deploy to Production
+### GitHub Pages Deployment
+
+**Live URL**: https://gangadhar1718.github.io/Bengaluru-Tech-Events-Tracker/
+
+#### Automatic Deployment
+The site automatically deploys to GitHub Pages when you push to the `main` branch via GitHub Actions.
+
+#### Manual Deployment Steps
+1. Build the frontend:
+   ```bash
+   cd frontend
+   npm run build
+   ```
+
+2. Commit and push the build folder:
+   ```bash
+   git add build
+   git commit -m "Deploy to GitHub Pages"
+   git push origin main
+   ```
+
+3. Enable GitHub Pages in repository settings:
+   - Go to Settings → Pages
+   - Source: Deploy from a branch
+   - Branch: main
+   - Folder: /build
+   - Save
+
+#### Configuration
+- Base URL is set to `/Bengaluru-Tech-Events-Tracker/` in `vite.config.js`
+- Build output goes to `build/` directory
+- GitHub Actions workflow handles automatic deployment
+
+### To Deploy Backend to Production
 Consider using:
-- **Frontend**: Vercel, Netlify, or GitHub Pages
 - **Backend**: Heroku, Railway, or PythonAnywhere
 - **Full Stack**: Render, Fly.io, or DigitalOcean App Platform
 
