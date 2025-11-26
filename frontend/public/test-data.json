@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Microsoft AI Tour Bengaluru",
+    "date": "2025-12-11",
+    "category": "AI",
+    "type": "Offline",
+    "location": "Sheraton Grand Bengaluru Whitefield Hotel & Convention Center, Whitefield",
+    "description": "One-day Microsoft AI event featuring sessions from Microsoft leaders.",
+    "registrationLink": "https://aitour.microsoft.com/flow/microsoft/bengaluru26/landingpage/page/cityhome",
+    "status": "None"
+  },
+  {
+    "id": 2,
+    "name": "Microsoft AI Day Bengaluru 2025",
+    "date": "2025-11-08",
+    "category": "AI",
+    "type": "Offline",
+    "location": "Microsoft – Prestige Ferns Galaxy, Bellandur",
+    "description": "AI community event with keynote sessions, hands-on labs, and networking.",
+    "registrationLink": "https://lnkd.in/g85QMXq5",
+    "status": "None"
+  },
+  {
+    "id": 3,
+    "name": "MongoDB x AWS Immersion Day Workshop (Bengaluru)",
+    "date": "2025-11-12",
+    "category": "Cloud",
+    "type": "Offline",
+    "location": "Bengaluru",
+    "description": "Hands-on workshop covering MongoDB + AWS integration concepts.",
+    "registrationLink": "https://events.mongodb.com/awsimmersiondayworkshop-bengaluru",
+    "status": "None"
+  },
+  {
+    "id": 4,
+    "name": "TiDB India User Group Meetup",
+    "date": "2025-11-12",
+    "category": "Cloud",
+    "type": "Offline",
+    "location": "Bengaluru",
+    "description": "Meetup hosted by TiDB India User Group discussing distributed databases.",
+    "registrationLink": "https://www.meetup.com/tidb-india-user-group/events/311972796",
+    "status": "None"
+  },
+  {
+    "id": 5,
+    "name": "M365 Conference Bengaluru",
+    "date": "2025-12-06",
+    "category": "Cloud",
+    "type": "Offline",
+    "location": "Microsoft Luxor North Tower, Bagmane Capital Campus, Bengaluru",
+    "description": "Conference covering Microsoft 365, Copilot updates, and collaboration tools.",
+    "registrationLink": "https://m365event.com",
+    "status": "None"
+  },
+  {
+    "id": 6,
+    "name": "AWS Bengaluru User Group – AI for Bharat Kickoff Workshop",
+    "date": "2025-11-16",
+    "category": "Cloud",
+    "type": "Offline",
+    "location": "Bengaluru",
+    "description": "AWS community workshop focusing on AI for Bharat initiative.",
+    "registrationLink": "https://meetu.ps/e/PG8JH/14wyzf/i",
+    "status": "None"
+  },
+  {
+    "id": 7,
+    "name": "GitHub Universe'25 Recap Bengaluru",
+    "date": "2025-12-03",
+    "category": "Cloud",
+    "type": "Offline",
+    "location": "Radisson Blu Outer Ring Road",
+    "description": "Recap workshop covering GitHub Universe 2025 highlights, database sessions, networking, lunch, and swags.",
+    "registrationLink": "https://gh.io/recap25-blr6",
+    "status": "None"
+  },
+  {
+    "id": 8,
+    "name": "AI for Bharat Kickoff Workshop",
+    "date": "2025-11-16",
+    "category": "AI",
+    "type": "Offline",
+    "location": "Bengaluru",
+    "status": "None",
+    "description": "Join the AWS Bengaluru User Group for the AI for Bharat Kickoff Workshop. Community-led session focusing on AI learning and networking.",
+    "registrationLink": "https://meetu.ps/e/PG8JH/14wyzf/i"
+  }
+]
