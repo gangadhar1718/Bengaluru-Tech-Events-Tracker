@@ -6,7 +6,8 @@ import { loadFromLocalStorage, saveToLocalStorage } from './localStorage.js';
  */
 export const fetchTestData = async () => {
   try {
-    const response = await fetch('/test-data.json');
+    // Use relative path that works with Vite's base configuration
+    const response = await fetch(`${import.meta.env.BASE_URL}test-data.json`);
     
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
